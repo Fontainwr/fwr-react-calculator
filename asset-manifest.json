@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fwr-react-calculator/static/css/main.eeeb1773.css",
+    "main.js": "/fwr-react-calculator/static/js/main.e8ca4d64.js",
+    "index.html": "/fwr-react-calculator/index.html",
+    "main.eeeb1773.css.map": "/fwr-react-calculator/static/css/main.eeeb1773.css.map",
+    "main.e8ca4d64.js.map": "/fwr-react-calculator/static/js/main.e8ca4d64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eeeb1773.css",
+    "static/js/main.e8ca4d64.js"
+  ]
+}
